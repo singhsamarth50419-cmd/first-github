@@ -1,2 +1,3 @@
-# first-github
-this is my first github file
+# First-github
+This is my first github file.
+Hello samarth
